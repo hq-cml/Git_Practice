@@ -6,3 +6,4 @@ Creating a new branch is quick & simple. It's nice.
 It's ok.
 Add a new line.This seems to be not conflict.
 Fast forward.
+No Fast forward.
